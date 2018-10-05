@@ -1,2 +1,2 @@
 # GitHubDesktop_Test
-Testing GitHubDesktop, training JavaScript
+This repository creating for test GitHub Desktop and train JavaScript
